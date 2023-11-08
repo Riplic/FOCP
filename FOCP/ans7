@@ -1,0 +1,23 @@
+1. Source code: Source code is the set of instructions and commands written by a programmer using a programming language to create a computer program. It is the human-readable form of the program before it is translated into machine code for execution by the computer.
+
+2. Machine code: Machine code is a low-level programming language that directly instructs the computer's CPU and is represented in binary form.
+
+3. Interpreter: An interpreter is a program that translates and executes instructions written in a high-level programming language without requiring a separate compilation step.
+
+4. Compiler: A compiler is a program that translates the entire source code of a high-level programming language into machine code or an intermediate code, which can be directly executed by the computer.
+
+5. 2GL: 2GL, or second-generation programming languages, refers to assembly languages that use mnemonics to represent CPU instructions, making programming more human-readable and less complex than machine code. 
+
+6. 3GL: Third Generation Programming Languages (3GL) are high-level programming languages such as C, Java, and Python that are more abstracted from the computer's architecture compared to 2GL. These languages are designed to be more user-friendly and portable across different computer systems, and they are translated into machine code by a compiler before execution.
+
+7. 4GL: 4GLs are high-level languages focused on "what" to do, not "how." Examples include SQL for data, R for stats, and SPSS for analysis, tailored for specific domains. They're advanced but not universal replacements for 3GLs.
+
+8. Executable: An executable is a file that contains a program in a form that is ready to be executed or run by the computer.
+
+9. Expressions: Expressions are combinations of values, variables, operators, and functions that are evaluated to produce a result.
+
+10. Operators and Operands: Operators are symbols that represent computations, while operands are the values or variables on which the operators perform the computations.
+
+11. Syntax Errors: Syntax errors occur when the rules of a programming language are not followed, resulting in the code being incorrectly structured or formatted.
+
+12. Logical Errors: Logical errors are flaws in the program's logic that cause it to produce incorrect or unexpected results.
