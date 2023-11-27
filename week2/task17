@@ -1,0 +1,17 @@
+1. Assignment:
+            Assignment is the process of giving a value to a variable. 
+2. Data-type:
+            Data type is a classification that specifies which type of value a variable can hold. 
+3. Argument:
+            An argument is a value that you pass to a function or a method when calling it. 
+4. Indexing:
+            Indexing refers to the process of accessing individual elements in a data structure, like a list or a string, using their position or index. 
+
+5. Slicing:
+            Slicing is a way to extract a portion of a sequence, such as a list or a string. It is done by specifying a range of indices, and it returns a new sequence containing the elements within that range.
+
+6.Mutable:
+            Mutable objects are those whose values or content can be changed after they are created. Lists are an example of mutable objects. You can modify, add, or remove elements in a mutable object.
+
+7. Immutable:
+            Immutable objects, on the other hand, cannot be changed once they are created. Examples of immutable objects  include strings and tuples. Once created, their values cannot be modified.
