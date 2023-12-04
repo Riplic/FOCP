@@ -1,0 +1,14 @@
+
+- Boolean Expression - An expression that evaluates to either True or False. Often involves relational or logical operators.
+
+- Relational Operator - Operators like <, >, == that compare values and evaluate to True or False.
+
+- Logical Operator - Operators like and, or, not that combine boolean expressions. 
+
+- Operator Chaining - Using multiple relational operators in sequence, implicitly combining them with AND logic.
+
+- Ternary Operator - A concise conditional expression with a syntax like: value_if_true if condition else value_if_false.
+
+- Iteration - Repeatedly executing a block of code, usually with a counter or condition controlling the repetitions.
+
+- Nested Loop - A loop statement that is inside the body of another loop statement, creating nested repetition.
