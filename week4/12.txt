@@ -1,0 +1,10 @@
+Python Standard Library: The Python Standard Library is a collection of built-in modules that provides functions for performing a wide range of tasks.
+
+Formal Parameters: In the context of functions and methods, formal parameters are the names specified in the function or method definition. These names act as placeholders for the actual argument values that will be passed to the function or method when it is called.
+
+Actual Parameters (argument values): Actual parameters are the argument values that are passed to a function or method when it is called. These values are assigned to the corresponding formal parameters in the function or method definition.
+
+Default and Keyword Arguments: Default arguments are arguments that have default values assigned to them in the function or method definition. When the function or method is called, if no argument value is provided for a default argument, then the default value will be used.
+                             : Keyword arguments are arguments that are passed to a function or method by name. This allows the arguments to be passed in any order, rather than having to be passed in the order in which the formal parameters are defined.
+
+Lambda Expression: A lambda expression is a small anonymous function that is defined using the lambda keyword, followed by the argument list, a colon, and the expression that should be evaluated and returned by the function
